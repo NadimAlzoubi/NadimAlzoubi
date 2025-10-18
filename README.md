@@ -25,12 +25,12 @@
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently developing **MVSL**, a Vessel & Logistics Management System using **Laravel, PHP, MySQL, and JavaScript**.  
+- 🔭 I’m currently developing **YaqootMarket**, an e-commerce platform for managing products, orders, and online sales using **Laravel, PHP, MySQL, and React**.
 - 👯 I’m looking to collaborate on **full-stack web projects and cloud automation tools**.  
 - 🤝 I’m looking for help with **Laravel optimization, React integrations, and API architecture**.  
 - 🌱 I’m currently learning **advanced React patterns, CI/CD, and Azure cloud deployment**.  
 - 💬 Ask me about **PHP, Laravel, MySQL, React, web architecture, and workflow automation**.  
-- ⚡ Fun fact: I built a **web-based SVG-to-PNG converter** that runs entirely in the browser.  
+- ⚡ Fun fact: I built **[Global Emotions Index](https://globalemotionsindex.com/)**, a platform that visualizes global emotional trends using data and interactive maps.  
 
 ---
 
