@@ -60,15 +60,6 @@
 <img src="https://streak-stats.demolab.com/?user=nadimalzoubi&theme=dark" height="160"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=nadimalzoubi&theme=radical&no-bg=true&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 <p align="left">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
