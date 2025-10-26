@@ -45,7 +45,7 @@
 
 ## 💻 Tech Stack
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,js,react,ts,nodejs,html,css,mysql,sqlite,azure,bootstrap,tailwind,docker,git,github,postman,photoshop,illustrator"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,js,react,next,vue,ts,nodejs,html,css,mysql,sqlite,azure,bootstrap,tailwind,docker,git,github,postman,photoshop,illustrator"/>
 </p>
 
 ---
