@@ -18,7 +18,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
     <a href="mailto:info@nadim.pro">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="48"/></a> &nbsp;
-    <a href="https://github.com/nadimalzoubi">
+    <a href="https://nadim.pro">
         <img src="/portfolio.png" height="48"/></a>
 </p>
 
